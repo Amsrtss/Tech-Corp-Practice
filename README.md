@@ -94,5 +94,6 @@ This exercise is based on a learning platform:
 ## Author
 
 Created by Amira
+[LinkedIn](https://linkedin.com/in/username](https://www.linkedin.com/in/amiratus-sholiha-5880bb193/)
 
 As part of my journey in learning Data and SQL.
