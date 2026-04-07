@@ -93,6 +93,6 @@ This exercise is based on a learning platform:
 
 ## Author
 
-- <b>[LinkedIn] (www.linkedin.com/in/amiratus-sholiha-5880bb193) </b>
+- <b>[LinkedIn](www.linkedin.com/in/amiratus-sholiha-5880bb193) </b>
 
 As part of my journey in learning Data and SQL.
